@@ -1,9 +1,11 @@
 
-Horiseon
+    Horiseon
 
 This project is meant to refactor the HTML and CSS of Horiseon's web page/application and make it accessibility compliant.
 
+    Screenshot 
 
+https://github.com/Anthonyz28/Horiseon/issues/1#issue-758056527
 
 
     Getting Started
