@@ -9,6 +9,7 @@ This project is meant to refactor the HTML and CSS of Horiseon's web page/applic
 Getting Started
 
 You can find this site published on :   https://anthonyz28.github.io/Horiseon/
+
 You can find the repository here:     https://github.com/Anthonyz28/Horiseon.git
 
 Prerequisites
