@@ -6,7 +6,7 @@ This project is meant to refactor the HTML and CSS of Horiseon's web page/applic
 
 
 
-Getting Started
+    Getting Started
 
 You can find this site published on :   https://anthonyz28.github.io/Horiseon/
 
@@ -16,9 +16,9 @@ Prerequisites
 
  preferably Google Chrome
 
-List of Changes
+    List of Changes
 
-    HTML
+        HTML
 Changed the title from website to Horiseon
 
 Fixed the broken link by adding the correct id that was missing
@@ -33,7 +33,7 @@ Add alt to the images for the accessibility
 
 Replaced div with footer semantic
 
-    CSS
+         CSS
 Consolidated h3 class styling
 
 Consolidated images styling
@@ -44,15 +44,16 @@ Consolidated benefit lead img, benefit brand img, benefit cost img styling
 
 Consolidated search engine optimization, online rep management, social media marketing styling
 
-Built With
+    Built With
 
 VS Code
 Gitbash
 Github
 
-Edits/Refactors
+    Edits/Refactors
 
 Anthony Martinez
-License
+
+    License
 
 This project is licensed by Horiseon
